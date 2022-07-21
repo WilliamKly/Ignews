@@ -1,0 +1,26 @@
+{
+  "id": "83ff30a7-5b5e-4b52-8456-06a2d4256e62",
+  "uid": "nisi-doloribus-iure",
+  "type": "publication",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Generate frictionless portals",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "heading1",
+        "text": "Harness mission-critical initiatives",
+        "spans": []
+      },
+      {
+        "type": "paragraph",
+        "text": "Ad nisi reprehenderit duis officia qui cupidatat adipisicing. Magna nisi id sunt elit laboris ut sunt. Pariatur velit id amet officia Lorem eu dolore est quis.",
+        "spans": []
+      }
+    ]
+  }
+}
